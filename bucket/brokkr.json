@@ -6,14 +6,14 @@
         "request against the bucket repository feedback-loop-ai/scoop-bucket,",
         "file bucket/brokkr.json."
     ],
-    "version": "0.9.1",
+    "version": "0.10.0",
     "description": "Delivery engine that drives agent seats through a reviewable phase machine",
     "homepage": "https://github.com/feedback-loop-ai/brokkr",
     "license": "MIT OR Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/feedback-loop-ai/brokkr/releases/download/v0.9.1/brokkr-windows-x86_64.zip",
-            "hash": "5047c0afa00a052030825e2323ba701686f641ee01c0e52a54541e74828f3e23"
+            "url": "https://github.com/feedback-loop-ai/brokkr/releases/download/v0.10.0/brokkr-windows-x86_64.zip",
+            "hash": "642160e4048419108fc9ee8d22e3a394a2ca49f84bfa39b6915c229e390c1614"
         }
     },
     "bin": "brokkr.exe",
